@@ -6,6 +6,9 @@
 1654649205.655883117s 1 https://api.dandiarchive.org/api/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271.zarr/0/0/0/8/10/159
 1654649205.919557743s 1 https://api.dandiarchive.org/api/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271.zarr/0/0/0/8/10/160
 1654649206.620936498s 1 https://api.dandiarchive.org/api/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271.zarr/0/0/0/8/10/163
+1654652692.400968057s 1 https://api.dandiarchive.org/api/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271.zarr/0/0/0/8/10/169
+1654652693.972104475s 1 https://api.dandiarchive.org/api/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271.zarr/0/0/0/8/10/170
+1654652695.290904412s 1 https://api.dandiarchive.org/api/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271.zarr/0/0/0/8/10/171
 1654649204.633787799s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/153?versionId=iFPUEEGMuuWObfaCKa6KfqpBjMdvHHCV
 1654649204.920176357s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/154?versionId=LcOiYTFhFDkVE1oE3OZ19HBHva4AA4FI
 1654649205.161005506s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/155?versionId=Dd6eCV13Or_t3UTu4vtPs72MlULv68Qi
@@ -14,3 +17,6 @@
 1654649205.641000164s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/159?versionId=wwTi_GSzshcdkl0FMRu74mNmfA12AHrk
 1654649205.899865929s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/160?versionId=f0tsd9ETctJPPPDeHM1idmxuXYWonCQq
 1654649206.571414723s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/163?versionId=VVZoR8Mq.6Es3uxQPYVyR4.dbqWT7KdN
+1654652692.335713612s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/169?versionId=Mr2NyFj9sM60NZmQdJcdK3hX71Q_ix7u
+1654652693.86168615s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/170?versionId=C62vgVr3r5qVIAXRMwiXaniPgPskOu5B
+1654652694.678244768s 1 https://dandiarchive.s3.amazonaws.com/zarr/e3bd3dd0-ba77-41f3-84cf-f21b68a28271/0/0/0/8/10/171?versionId=uv.xPOr.c4GFLjeECIw7CntL1CZvDiG_
